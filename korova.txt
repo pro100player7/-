@@ -1,3 +1,7 @@
 привет! я коровка му-му и я даю молоко!?
 hello i am cow, my name is my-my, i given a lot of milk!?
+<<<<<<< HEAD
 da kak tyt sohranit normalno?
+=======
+
+>>>>>>> 4c57cbd37c769f2266924b908d822e549e4cdcf0
